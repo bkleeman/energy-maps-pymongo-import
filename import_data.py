@@ -14,8 +14,8 @@ Collection = db["data"]
 def append_props_obj(file_data):
     props_str = {
         "props": {
-            "start date": 2012,
-            "end date": 2020
+            "start_date": 2012,
+            "end_date": 2020
         }
     }
         
